@@ -1,0 +1,13 @@
+@import './header.css';
+@import './main-intro.css';
+@import './main.css';
+
+body {
+    background-color: #040b1a;
+    padding: 0px;
+    margin: 0px;
+}
+
+.background {
+    background: linear-gradient(180deg, rgba(4, 11, 27, 0) 0%, #040B1B 100%), url(/img/fundo.png);
+}

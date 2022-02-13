@@ -1,0 +1,59 @@
+#main-intro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+    position: relative;
+}
+
+#main-intro img {
+    padding-top: 150px;
+}
+
+.wallet h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 135px;
+    line-height: 155px;
+    text-transform: uppercase;
+    text-align: left;
+    color: white;
+}
+
+#support {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 192px;
+}
+
+#support p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+#support .topics {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 54px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+#support .topics a {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+}
+
